@@ -31,8 +31,8 @@ export const projects = [
   description: 'A fully responsive portfolio website built using Next.js and React, featuring animated sections, a clean UI, and modular components. It highlights my skills, projects, and experience in a single-page layout.',
   image: '/images/portfolio.jpg',
   tags: ['Next.js', 'React', 'Styled-Components', 'JavaScript'],
-  source: 'https://google.com',     
-  visit: 'https://google.com',         
+  source: 'https://github.com/Himanshi0665/Personal-Portfolio-',     
+  visit: 'https://github.com/Himanshi0665/Personal-Portfolio-',         
   id: 3,
 },
 ];
